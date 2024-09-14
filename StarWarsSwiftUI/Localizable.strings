@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  StarWarsSwiftUI
+
+  Created by Özgün Yildiz on 14.09.24.
+  
+*/
+
+/* Home screen */
+"homeStartButton" = "Start";
+"homeStarWarsTitle" = "Star Wars";
+"homeSubtitle" = "Characters \nencyclopedia";
+
+/* Characters screen */
+"charactersNavigationTitle" = "Characters";
+"charactersSearchBar" = "Search character";
+
+/* Character detailed screen */
+"characterDetailedBirth" = "Birth year: %@";
+"characterDetailedEyes" = "Eyes color: %@";
+"characterDetailedGender" = "Gender: ";
+"characterDetailedHair" = "Hair color: %@";
+"characterDetailedHeight" = "Height: %@ cms";
+"characterDetailedSkin" = "Skin color: %@";
+"characterDetailedWeight" = "Weight: %@ kg";
+
+/* Loading */
+"loadingMessage" = "Transmitting data from the Rebel Alliance...";
+
+/* Alerts */
+"alertDescriptionInvalidData" = "Invalid data";
+"alertDescriptionInvalidResponse" = "Invalid response";
+"alertDescriptionInvalidUrl" = "Invalid URL";
+"alertDescriptionUnexpectedError" = "Unexpected error";
+"alertOkButton" = "Ok";
+"alertErrorTitle" = "Error";
